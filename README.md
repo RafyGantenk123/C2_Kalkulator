@@ -1,5 +1,5 @@
 ### Kelompok: C2
-### Kelas: C
+### Kelas: 1C
 ### Anggota Kelompok:
 
 - hadi-fachriansyah | Hadi Fachriansyah | 251524070
